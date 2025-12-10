@@ -63,6 +63,8 @@ It uses **Google Gemini AI**, **resume intelligence**, and **smart job-matching 
 - Render (Backend)
 
 ---
+<img width="1600" height="869" alt="image" src="https://github.com/user-attachments/assets/c7f98179-f12b-479b-bfbe-1d12c7f84eb3" />
+
 
 ## ⭐ Badges (LinkedIn Style)
 

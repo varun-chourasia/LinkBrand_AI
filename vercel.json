@@ -5,8 +5,12 @@
       "destination": "/backend/api/main.py"
     },
     {
+      "source": "/auth/(.*)",
+      "destination": "/backend/api/main.py"
+    },
+    {
       "source": "/(.*)",
-      "destination": "/index.html"
+      "destination": "/frontend/dist/index.html" 
     }
   ]
 }

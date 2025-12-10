@@ -1,0 +1,39 @@
+# --- DEPENDENCIES (Don't upload these!) ---
+node_modules/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# --- ENVIRONMENT VARIABLES (Keep secrets safe) ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- BUILD OUTPUTS (Generated files) ---
+dist/
+build/
+.next/
+out/
+coverage/
+
+# --- IDE & SYSTEM FILES (Junk) ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- PYTHON SPECIFIC ---
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# --- DATABASE (If using local SQLite) ---
+*.sqlite3
+*.db

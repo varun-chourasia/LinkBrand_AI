@@ -4,7 +4,7 @@ import {Linkedin} from 'lucide-react';
 export default function Login() {
     const handleLogin = () => {
         // redirect to your backend auth endpoint 
-        window.location.href = "auth/login";
+        window.location.href = "https://linkbrand-api-final.onrender.com/auth/login";
     };
 
     return (

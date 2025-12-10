@@ -4,7 +4,7 @@ import {Linkedin} from 'lucide-react';
 export default function Login() {
     const handleLogin = () => {
         // redirect to your backend auth endpoint 
-        window.location.href = "http://localhost:8000/auth/login";
+        window.location.href = "auth/login";
     };
 
     return (

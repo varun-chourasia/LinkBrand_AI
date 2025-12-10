@@ -1,6 +1,3 @@
-<!-- Banner (replace with your AI banner later) -->
-<img src="banner-linkedin-blue.png" alt="LinkBrandAI Banner" width="100%">
-
 # 🚀 LinkBrandAI — AI-Powered Career Assistant
 
 LinkBrandAI is a full-stack AI application designed to supercharge your career.  

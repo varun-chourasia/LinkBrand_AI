@@ -1,7 +1,11 @@
 from fastapi import APIRouter, HTTPException
 import httpx
+from fastapi import FastAPI, Depends, UploadFile, File, HTTPException, Form 
+import sys
 import os
 from dotenv import load_dotenv
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 load_dotenv()
 
